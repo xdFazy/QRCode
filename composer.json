@@ -1,6 +1,6 @@
 {
     "name": "htlw3r/qr-code",
-    "description": "Pet Finder QR-Code Epic Generator 123",
+    "description": "Pet Finder QR-Code Epic Generator",
     "license": "GPL",
     "autoload": {
         "psr-4": {
@@ -8,6 +8,6 @@
         }
     },
     "require": {
-        "endroid/qr-code": "^4.7"
+        "endroid/qr-code": "^5.0"
     }
 }
